@@ -1,15 +1,43 @@
-### Hola! Soy Jon 👋
-Mi nombre es Jonatan Ballestero. Soy de Argentina y tengo 30 años. Estudio programación y temas derivados a la electronica.
+# Hola, soy Jon 👋
 
-Me interesa todo! Domotica, robotica, manipulacion de datos, redes, electronica, IoT, POO...
+Soy Jonatan Ballestero, desarrollador de Argentina con interés en automatización, desarrollo web, electrónica e Internet de las Cosas.
 
-Hice varios cursos de programacíon. Codo a Codo, Arg. Programa, FullStack en Digital House con Formar...
-Tambien hice curso de reparación de PC, celulares y electronica. Empece por el lado del hard pero poco a poco me pase al soft y a agarrarle el gustito a programar.
+Actualmente trabajo y estudio tecnologías relacionadas con:
 
-Me proyecto a futuro como ingeniero o programador capacitado para brindar al mundo mi aporte en la tecnologia. Ya sea programando, reparando o manipulando maquinaria.
-Tambien me encantaria aportar mi granito de arena en temas ecologicos o de salud. Cuidemos al planeta como nos cuidamos a nosotros mismos 🌎💞
+- React y TypeScript
+- Google Apps Script
+- Automatización de procesos
+- Integración con Google Sheets
+- Desarrollo de herramientas de gestión
+- Bases de datos y manipulación de datos
+- IoT y electrónica
 
-💬 Me encanta ayudar y lograr el exito ajeno. Lo disfruto igual que al mio. 😄
-📫 Buscame en Linked In https://www.linkedin.com/in/jonballes/
+## 🚀 Qué me gusta construir
 
-Gracias por pasarte y leer sobre mi. 🙂  Y no te olvides de ✨ _Caminar hacia el futuro_ ✨
+Disfruto crear soluciones que simplifiquen tareas cotidianas, automaticen procesos y ayuden a las personas a trabajar mejor.
+
+Entre mis proyectos encontrarás:
+
+- Sistemas de gestión
+- Dashboards
+- Herramientas CRUD
+- Automatizaciones con Google Workspace
+- Aplicaciones web integradas con Google Sheets
+- Experimentos de electrónica e IoT
+
+## 📚 Formación
+
+He participado en distintos programas de formación técnica y desarrollo de software, complementando mis conocimientos de hardware, reparación electrónica y programación.
+
+## 🌎 Mirando hacia adelante
+
+Me interesa seguir creciendo como desarrollador y participar en proyectos con impacto real, especialmente en áreas relacionadas con tecnología, educación, salud y sostenibilidad.
+
+## 📫 Contacto
+
+LinkedIn:
+www.linkedin.com/in/jonballes/
+
+---
+
+"Camina hacia el futuro."
